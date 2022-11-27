@@ -1,5 +1,17 @@
 body{
     text-align: center;
     color: aquamarine;
-    font-family: 'Courier New', Courier, monospace
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid #DDD;
+}
+div{
+    
+    
+    text-align: center;
+    font-style: oblique;
+    border: 1px solid #DDD;
+    margin: 20px; 
+}
+h1{
+    color: rebeccapurple;
 }
