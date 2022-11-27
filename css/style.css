@@ -10,8 +10,8 @@ div{
     text-align: center;
     font-style: oblique;
     border: 1px solid #DDD;
-    margin: 20px;
-    
-    
-
+    margin: 20px; 
+}
+h1{
+    color: rebeccapurple;
 }
