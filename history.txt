@@ -1,3 +1,4 @@
 this is a txt
 Voy a ser muy  muy muy feliz
-experimento de rebase, 1st commit desde (experimento)
+experimento de rebase, 1st commit desde (experimento) stash
+cherry-pick
